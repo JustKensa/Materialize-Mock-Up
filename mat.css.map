@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEI,UAAU;EAFd,AAAA,KAAK,CAAL;IAGQ,WAAW,EAAE,aAAa;IAC1B,GAAG,EAAE,0BAA0B,CAAC,MAAM,CAAC,UAAY;GAE1D",
+    "sources": [
+        "mat.scss"
+    ],
+    "names": [],
+    "file": "mat.css"
+}
